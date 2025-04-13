@@ -1,0 +1,17 @@
+/* SignInPage Styles */
+.signin-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #f4f4f4; /* Light gray background */
+  }
+  
+  /* Clerk SignIn Box */
+  .cl-internal-5hnm2z {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
+    border-radius: 10px; /* Soft rounded corners */
+    padding: 20px;
+    background: white; /* Ensures it stands out */
+  }
+  
